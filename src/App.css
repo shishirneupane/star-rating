@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+/* for star rating feedback */
+
+.star {
+  cursor: pointer;
+}
+
+.highlighted svg {
+  fill: yellow;
+}
